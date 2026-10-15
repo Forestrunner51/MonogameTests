@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+
+# MonoGame content build output
+Content/bin/
+Content/obj/
+
+# macOS
+.DS_Store
+
+# Editors
+.vs/
+.idea/
+*.user
